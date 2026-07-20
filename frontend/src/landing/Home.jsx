@@ -9,7 +9,7 @@ const Home = () => {
       {/* Animated Heading */}
       <div className="home-container">
       <h1 className="animated-heading">
-        WELCOME TO SECURIX
+        WELCOME TO SECURI<span className="text-sky-500">X</span>
       </h1>
     </div>
 
